@@ -23,7 +23,7 @@
 
     <div style="display: flex;flex-direction: column;justify-content: center;align-items: center;margin-top: 20px">
       <span style="color: #333333;font-size: 14px;padding-left: 15px;padding-right: 15px;">如有二维码显示问题</span>
-      <span style="color: #333333;font-size: 14px;padding-left: 15px;padding-right: 15px;">您可以拨打400-186-9090联系我们</span>
+      <span style="color: #333333;font-size: 14px;padding-left: 15px;padding-right: 15px;">您可以拨打xxxx联系我们</span>
     </div>
 
   </div>
