@@ -5,7 +5,7 @@
 
 > vue 框架下一维码和二维码的使用，
 二维码是vux自带组件，
-因为jquery等js一维码库大多数根据dom节点来实现，所以不能用在vue框架上，现做一个canvas版本的一维码，code128格式，根据算法与canvas画图画出来的一维码。
+因为jquery等js一维码库大多数根据dom节点来实现，所以不能用在vue框架上，现做一个canvas版本的一维码，code128格式，根据算法与h5 canvas api画出来的一维码。
 
 
 ### 优点
