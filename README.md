@@ -1,4 +1,4 @@
-# vue_barcode
+# vue 框架，一维码生成器
 
 
 
@@ -12,6 +12,14 @@
 
 > 可扩展性好，可适配于react，angular，微信小程序等其他框架。
 代码量少，一个js文件，2kb。
+
+#### 扩展
+
+* [ vue版本的一维码生成器 ](https://github.com/Aarthas/vue_barcode)
+
+* [小程序版的一维码生成器](https://github.com/Aarthas/wxmini_barcode_qrcode)
+
+
 
 ![](https://raw.githubusercontent.com/Aarthas/vue_barcode/master/preview.jpeg)
 
