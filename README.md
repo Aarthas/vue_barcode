@@ -1,8 +1,20 @@
 # vue_barcode
 
-> A Vue.js project
 
-## Build Setup
+
+
+> vue 框架下一维码和二维码的使用，
+二维码是vux自带组件，
+因为jquery等js一维码库大多数根据dom节点来实现，所以不能用在vue框架上，现做一个canvas版本的一维码，code128格式，根据算法与canvas画图画出来的一维码。
+
+
+### 优点
+
+> 可扩展性好，可适配于react，angular，微信小程序等其他框架。
+代码量少，一个js文件，2kb。
+
+#### 使用
+
 
 ``` bash
 # install dependencies
