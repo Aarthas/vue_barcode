@@ -13,6 +13,8 @@
 > 可扩展性好，可适配于react，angular，微信小程序等其他框架。
 代码量少，一个js文件，2kb。
 
+![](https://raw.githubusercontent.com/Aarthas/vue_barcode/master/preview.jpeg)
+
 #### 使用
 
 
